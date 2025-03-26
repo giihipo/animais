@@ -1,0 +1,5 @@
+let animais = ["zebra", "raposa", "elefante","girafa", "lhamma", "tigre", "macaco", "iena", "cavalo", "aguia"];
+
+for (i=0; i<=9; i++){
+  console.log (animais[i]);
+}
